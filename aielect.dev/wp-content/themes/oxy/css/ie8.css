@@ -1,0 +1,18 @@
+#language img {
+	display: none;
+}
+#header #cart .heading a div#cart-total {
+    border-right: none;
+}
+.product-list .six {
+    border-right: 1px solid #F3F3F3;
+}
+.product-list > div + div {
+    border-top: 1px solid #F3F3F3;
+}
+.product-list a.wishlist-tip, .product-list a.compare-tip, .product-grid a.wishlist-tip, .product-grid a.compare-tip {
+	right: -3000px;	
+}
+.prev-next a.product-prev-tip, .prev-next a.product-next-tip {
+	right: -3000px;
+}

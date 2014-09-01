@@ -1,0 +1,22 @@
+label#mp3-title {
+	display: block;
+}
+
+input#mp3-title,
+input#mp3-file {
+	width:         100%;
+	margin-top:    2px;
+	margin-bottom: 2px;
+}
+
+#product_layout_container li  a{
+outline: none;
+
+}
+#product_layout_container  .product_layout >img{
+    border: 3px solid #FFF;
+    padding:1px;
+}
+#product_layout_container  .product_layout.active  >img{
+    border: 3px solid #d5d5d5
+}

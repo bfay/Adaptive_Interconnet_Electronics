@@ -1,0 +1,141 @@
+/*
+Responsive CSS
+*/
+
+@media screen and (max-width: 767px){
+#mobile-menu .megamenu_content{
+    display: none;
+}    
+}
+@media screen and (min-width: 768px){
+#header #cart .content{
+    right: 0;
+}
+}
+@media screen and (min-width: 768px) and (max-width:991px){
+#header #cart .content{
+    right: 0;
+}
+#header{
+    z-index: 99;
+}
+#menu ul.nav > li.oxymega > ul.sub-menu > li { 
+  width: 30.6%;
+}
+}
+@media screen and (max-width:767px){
+#wpadminbar{
+    position: fixed;    
+}
+#header{
+    z-index: 99;
+}
+
+#t-header #cart{
+    display: inline-block;
+    min-width: 230px;
+    width:100%;
+}
+#header #cart .content{
+    width: 100%;
+    min-width: 0;
+}
+
+#mobile-menu{
+    float: left;
+    width: 100%;
+}
+
+#header .mobile-nav ul.nav{
+    margin: 0;
+    overflow: hidden;
+    visibility: hidden;
+    transition: all 0.2s ease-in;
+}
+#header .mobile-nav ul.nav li{
+    width:100%;
+}
+
+#header .mobile-nav ul.nav .large-10 .five-nb > ul,
+#header .mobile-nav ul.nav .large-10.brands-wall,
+#header .mobile-nav ul.nav ul.sub-menu{
+    background: none;
+    float: none;
+    position: static;
+    display: none;
+    box-shadow:  none;
+    margin-left: 0;
+}
+#header .mobile-nav ul.nav > li.oxymega ul.sub-menu > li ul.sub-menu{
+    display: none;
+}
+
+#header .mobile-nav ul.nav li,
+#header .mobile-nav ul.nav li:hover{
+    background: none;
+}
+#header .mobile-nav ul.nav > li.oxymega ul.sub-menu{
+    width:auto;   
+}
+#header .mobile-nav ul.nav > li.oxymega ul.sub-menu > li{
+    display: block;
+    float: none;
+    width:auto;
+}
+
+#header .mobile-nav ul.nav li:hover ul.sub-menu {
+    display: none;
+}
+
+#header .mobile-nav ul.nav ul.sub-menu li{
+    border:none;
+}
+
+#header .mobile_menu_trigger{
+    position: relative;    
+    padding: 15px;
+    display: block;
+}
+#header .mobile_menu_trigger:after{    
+    float: right;
+    font-family: "dashicons";
+    content:"\f333";
+    font-size: 30px;
+}
+
+#header .mobile-nav ul.nav li a{
+    float: none;
+    display: block;
+}
+
+.menu-expander:before{
+    font-family: "dashicons";
+    font-size: 20px;
+    float: right;
+    padding-left: 20px;
+}
+
+
+.woocommerce-tabs .tabs li{
+    width:100%; 
+	min-height:41px;
+}
+.woocommerce-tabs .tabs li a{
+	width:100%; 
+}
+
+.tax-brands .woocommerce-result-count, .woocommerce .woocommerce-result-count, .woocommerce-page .woocommerce-result-count {
+	border-left: none;
+	margin: 12px 0 10px;
+    padding-left: 0;
+}
+
+/*#footer_a .s3, #footer_c .s3, #footer_p .s3 {
+    width: auto;
+    display: block;
+}*/
+.box-category-home > .five-noc, .box-manufacturers-home > .five-noc{
+    width:100%;
+}
+
+}

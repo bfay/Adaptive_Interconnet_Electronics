@@ -1,0 +1,2289 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OXY v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-07-07 16:20+0600\n"
+"PO-Revision-Date: 2014-07-13 07:39:03+0000\n"
+"Last-Translator: admin <abubakar@smartdatasoft.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n>1;\n"
+"X-Generator: Poedit 1.6.3\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:44
+#@ oxy
+msgid "The page you requested cannot be found!"
+msgstr "La page que vous avez demandé ne peut pas être trouvé!"
+
+#: 404.php:51
+#@ oxy
+msgid "The page you requested cannot be found."
+msgstr "La page que vous avez demandé ne peut pas être trouvé!"
+
+#: 404.php:53
+#@ oxy
+msgid "Continue"
+msgstr "continuer"
+
+#: archive.php:54
+#, php-format
+#@ oxy
+msgid "Daily Archives: %s"
+msgstr "Archives quotidiennes: %s"
+
+#: archive.php:57
+#, php-format
+#@ oxy
+msgid "Monthly Archives: %s"
+msgstr "Archives mensuelles:%s"
+
+#: archive.php:57
+#@ oxy
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: archive.php:60
+#, php-format
+#@ oxy
+msgid "Yearly Archives: %s"
+msgstr "Archives annuelles:%s"
+
+#: archive.php:60
+#@ oxy
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:63
+#@ oxy
+msgid "Archives"
+msgstr "Archives"
+
+#: archive.php:74
+#: home.php:62
+#: index.php:63
+#: single.php:50
+#@ oxy
+msgid "Posted by"
+msgstr "Publié par"
+
+#: archive.php:74
+#: home.php:62
+#: index.php:63
+#: single.php:50
+#@ oxy
+msgid "in"
+msgstr "dans"
+
+#: archive.php:82
+#: home.php:70
+#: index.php:71
+#: single.php:58
+#@ oxy
+msgid "on"
+msgstr "sur"
+
+#: archive.php:95
+#: home.php:83
+#: index.php:84
+#: single.php:64
+#@ oxy
+msgid " 0 comments"
+msgstr " 0 commentaires"
+
+#: archive.php:96
+#: home.php:84
+#: index.php:85
+#: single.php:65
+#@ oxy
+msgid " 1 comment"
+msgstr " 1 commentaires"
+
+#: archive.php:97
+#: home.php:85
+#: index.php:86
+#: single.php:66
+#, php-format
+#@ oxy
+msgid " % comments"
+msgstr " % commentaires"
+
+#: archive.php:98
+#: home.php:86
+#: index.php:87
+#: single.php:67
+#@ oxy
+msgid " Comments off"
+msgstr "commentaires off"
+
+#: archive.php:100
+#: home.php:88
+#: index.php:89
+#@ oxy
+msgid "Read more.."
+msgstr "En savoir plus .."
+
+#: archive.php:123
+#: home.php:109
+#: index.php:113
+#@ oxy
+msgid "No posts have been found at this moment."
+msgstr "Aucun message n'a été trouvé à ce moment."
+
+#: comments.php:13
+#@ oxy
+msgid "Comments are closed."
+msgstr ""
+"\n"
+"Les commentaires sont fermés."
+
+#: comments.php:24
+#@ oxy
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "Ce poste est protégé par mot. Entrez le mot de passe pour afficher les commentaires."
+
+#: comments.php:36
+#, php-format
+#@ oxy
+msgid "One thought on &ldquo; %2$s &rdquo;"
+msgid_plural "%1$s thoughts on &ldquo; %2$s &rdquo;"
+msgstr[0] "Une pensée sur&ldquo; %2$s &rdquo;"
+msgstr[1] "%1$s réflexions sur&ldquo; %2$s &rdquo;"
+
+#: comments.php:59
+#@ oxy
+msgid "Comment navigation"
+msgstr ""
+"\n"
+"commentaire navigation"
+
+#: comments.php:61
+#@ oxy
+msgid "&larr; Older Comments"
+msgstr "&larr; Commentaires plus anciens"
+
+#: comments.php:63
+#@ oxy
+msgid "Newer Comments &rarr;"
+msgstr "Commentaires les plus récents &rarr;"
+
+#: comments.php:81
+#@ oxy
+msgid "Leave a Reply"
+msgstr "Laisser un commentaire"
+
+#: comments.php:82
+#: woocommerce/single-product-reviews.php:59
+#, php-format
+#@ oxy
+#@ woocommerce
+msgid "Leave a Reply to %s"
+msgstr "Laisser un commentaire %s"
+
+#: comments.php:83
+#@ oxy
+msgid "Cancel Reply"
+msgstr ""
+"\n"
+"Annuler Répondre"
+
+#: comments.php:84
+#@ oxy
+msgid "SUBMIT"
+msgstr "SOUMETTRE"
+
+#: comments.php:86
+#@ oxy
+msgctxt "noun"
+msgid "Comment:"
+msgstr "Commentaire:"
+
+#: comments.php:92
+#, php-format
+#@ oxy
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "Vous devez être <a href=\"%s\">connecté</a> pour poster un commentaire."
+
+#: comments.php:98
+#, php-format
+#@ oxy
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out?</a>"
+msgstr "Connecté en tant que <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Déconnectez-vous de ce compte\">Déconnexion?</a>"
+
+#: comments.php:105
+#@ oxy
+msgid "Your email address will not be published."
+msgstr "Votre adresse de messagerie ne sera pas publiée."
+
+#: comments.php:112
+#@ oxy
+msgid "Name:"
+msgstr "nom:"
+
+#: comments.php:118
+#@ oxy
+msgid "Email:"
+msgstr "email:"
+
+#: comments.php:118
+#@ oxy
+msgid "Not Published"
+msgstr "non publié"
+
+#: comments.php:124
+#@ oxy
+msgid "Website:"
+msgstr "site Web:"
+
+#: comments.php:124
+#@ oxy
+msgid "Site url with http://"
+msgstr "URL du site avec http://"
+
+#: functions.php:105
+#: woocommerce/content-product.php:99
+#: woocommerce/content-product.php:100
+#@ oxy
+msgid "Add to Compare"
+msgstr "Ajouter au comparateur"
+
+#: functions.php:109
+#@ oxy
+msgid "Send to a friend"
+msgstr ""
+"\n"
+"Envoyer à un ami"
+
+#: functions.php:221
+#@ oxy
+msgid "Page Layout"
+msgstr "Mise en page"
+
+#: functions.php:439
+#: swpf/class-tgm-plugin-activation.php:196
+#@ oxy
+#@ tgmpa
+msgid "Install Required Plugins"
+msgstr ""
+"\n"
+"Installez requis plugins"
+
+#: functions.php:440
+#: swpf/class-tgm-plugin-activation.php:197
+#@ oxy
+#@ tgmpa
+msgid "Install Plugins"
+msgstr ""
+"\n"
+"installer des plugins"
+
+#: functions.php:441
+#: swpf/class-tgm-plugin-activation.php:198
+#, php-format
+#@ oxy
+#@ tgmpa
+msgid "Installing Plugin: %s"
+msgstr "Plugin Installation: %s"
+
+#: functions.php:442
+#@ oxy
+msgid "Something went wrong with the plugin API."
+msgstr ""
+"\n"
+"Quelque chose n'allait pas avec l'API de plugin."
+
+#: functions.php:443
+#: swpf/class-tgm-plugin-activation.php:200
+#, php-format
+#@ oxy
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Ce thème nécessite le plugin suivant: %1$s."
+msgstr[1] ""
+"\n"
+"Ce thème nécessite les plugins suivants: %1$s."
+
+#: functions.php:444
+#: swpf/class-tgm-plugin-activation.php:201
+#, php-format
+#@ oxy
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Ce thème recommande le plugin suivant:%1$s."
+msgstr[1] ""
+"\n"
+"Ce thème recommande les plugins suivants: %1$s."
+
+#: functions.php:445
+#: swpf/class-tgm-plugin-activation.php:202
+#, php-format
+#@ oxy
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr[0] "Désolé, mais vous ne disposez pas des autorisations nécessaires pour installer le %s plugin. Contactez l'administrateur de ce site pour obtenir de l'aide sur le plugin installé."
+msgstr[1] "Désolé, mais vous ne disposez pas des autorisations nécessaires pour installer le %s plugins. Contactez l'administrateur de ce site de l'aide sur l'obtention des plugins installés."
+
+#: functions.php:446
+#: swpf/class-tgm-plugin-activation.php:203
+#, php-format
+#@ oxy
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Le plugin requis à la suite est actuellement inactive: %1$s."
+msgstr[1] "Les plugins requis suivants sont actuellement inactive: %1$s."
+
+#: functions.php:447
+#: swpf/class-tgm-plugin-activation.php:204
+#, php-format
+#@ oxy
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Le plugin est recommandé suite est actuellement inactive: %1$s."
+msgstr[1] "Les plugins suivants sont recommandés actuellement inactive: %1$s."
+
+#: functions.php:448
+#: swpf/class-tgm-plugin-activation.php:205
+#, php-format
+#@ oxy
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr[0] "Désolé, mais vous n'avez pas les autorisations nécessaires pour activer la %s plugin. Contactez l'administrateur de ce site pour obtenir de l'aide sur le plugin activé."
+msgstr[1] ""
+"Désolé, mais vous n'avez pas les autorisations nécessaires pour activer la %s plugins.\n"
+"Contactez l'administrateur de ce site de l'aide sur l'obtention des plugins activés."
+
+#: functions.php:449
+#: swpf/class-tgm-plugin-activation.php:206
+#, php-format
+#@ oxy
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "Les plugins suivants doivent être mis à jour leur version la plus récente afin d'assurer une compatibilité maximale avec ce thème: %1$s."
+msgstr[1] "Les plugins suivants doivent être mis à jour leur version la plus récente afin d'assurer une compatibilité maximale avec ce thème: %1$s."
+
+#: functions.php:450
+#: swpf/class-tgm-plugin-activation.php:207
+#, php-format
+#@ oxy
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr[0] "Désolé, mais vous n'avez pas les autorisations nécessaires pour mettre à jour le %s plugin. Contactez l'administrateur de ce site pour obtenir de l'aide sur le plugin à jour."
+msgstr[1] "Désolé, mais vous n'avez pas les autorisations nécessaires pour mettre à jour le %s plugins. Contactez l'administrateur de ce site de l'aide sur l'obtention des plugins mis à jour."
+
+#: functions.php:451
+#: swpf/class-tgm-plugin-activation.php:208
+#@ oxy
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Commencez à installer le plugin"
+msgstr[1] "Commencez à installer des plugins"
+
+#: functions.php:452
+#@ oxy
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] "Activez le plugin installé"
+msgstr[1] "Activer les plugins installés"
+
+#: functions.php:453
+#: swpf/class-tgm-plugin-activation.php:210
+#@ oxy
+#@ tgmpa
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: functions.php:454
+#: swpf/class-tgm-plugin-activation.php:212
+#: swpf/class-tgm-plugin-activation.php:1951
+#@ oxy
+#@ tgmpa
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: functions.php:455
+#, php-format
+#@ oxy
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: functions.php:529
+#@ oxy
+msgid "Primary Menu"
+msgstr "Menu principal"
+
+#: functions.php:530
+#@ oxy
+msgid "Top Horizontal Menu"
+msgstr "Top Menu horizontal"
+
+#: functions.php:531
+#@ oxy
+msgid "Top Dropdown Menu"
+msgstr "Top Menu déroulant"
+
+#: functions.php:589
+#: functions.php:1386
+#, php-format
+#@ oxy
+msgid "Page %s"
+msgstr "Page %s"
+
+#: functions.php:758
+#, php-format
+#@ oxy
+msgid "Product successfully added to wishlist. <a href=\"%s\">Browse Wishlist</a>"
+msgstr "Produit a été ajouté à la liste de souhaits. <a href=\"%s\">Browse Wishlist</a>"
+
+#: functions.php:759
+#, php-format
+#@ oxy
+msgid "The product is already in the wishlist! <a href=\"%s\">Browse Wishlist</a>"
+msgstr ""
+"\n"
+"Le produit est déjà dans la liste!<a href=\"%s\">Browse Wishlist</a>"
+
+#: functions.php:1428
+#@ oxy
+msgid "Blog Left Sidebar"
+msgstr "Blog barre latérale de gauche"
+
+#: functions.php:1436
+#@ oxy
+msgid "Blog Right Sidebar"
+msgstr "Blog barre de droite"
+
+#: functions.php:1445
+#@ oxy
+msgid "Page Left Sidebar"
+msgstr "Page de gauche Sidebar"
+
+#: functions.php:1454
+#@ oxy
+msgid "Page Right Sidebar"
+msgstr "Page de droite Sidebar"
+
+#: functions.php:1463
+#@ oxy
+msgid "Shop Left Sidebar"
+msgstr "Boutique barre latérale de gauche"
+
+#: functions.php:1472
+#@ oxy
+msgid "Shop Right Sidebar"
+msgstr "Magasinez barre de droite"
+
+#: functions.php:1480
+#@ oxy
+msgid "Product Right Sidebar"
+msgstr "Produit barre de droite"
+
+#: functions.php:1488
+#@ oxy
+msgid "Contact Left Sidebar"
+msgstr "Contactez barre latérale de gauche"
+
+#: functions.php:1497
+#@ oxy
+msgid "Contact Right Sidebar"
+msgstr "Contactez barre de droite"
+
+#: functions.php:1506
+#@ oxy
+msgid "Footer1"
+msgstr "footer1"
+
+#: functions.php:1515
+#@ oxy
+msgid "Footer2"
+msgstr "footer2"
+
+#: functions.php:1558
+#@ oxy
+msgid "Post navigation"
+msgstr "poster navigation"
+
+#: functions.php:1560
+#@ oxy
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Les seniors messages"
+
+#: functions.php:1562
+#@ oxy
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+"\n"
+"Les nouveaux messages <span class=\"meta-nav\">&rarr;</span>"
+
+#: functions.php:1614
+#@ oxy
+msgid "Reply"
+msgstr "répondre"
+
+#: functions.php:1648
+#@ oxy
+msgid ", "
+msgstr ", "
+
+#: functions.php:1656
+#, php-format
+#@ oxy
+msgid "View all posts by %s"
+msgstr "Voir tous les messages de %s"
+
+#: functions.php:1663
+#, php-format
+#@ oxy
+msgid "Posted in %1$s on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr "Publié dans %1$s on %3$s<span class=\"by-author\"> by %4$s</span>."
+
+#: functions.php:1666
+#, php-format
+#@ oxy
+msgid "This entry was posted on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr "Cette entrée a été posté sur %3$s<span class=\"by-author\"> by %4$s</span>."
+
+#: functions.php:1813
+#@ oxy
+msgid "Continue Reading &raquo;"
+msgstr "Lire la suite &raquo;"
+
+#: functions.php:1966
+#@ oxy
+msgid "0 review"
+msgstr "0 examen"
+
+#: functions.php:1966
+#@ oxy
+msgid "1 review"
+msgstr "1 examen"
+
+#: functions.php:1966
+#@ oxy
+msgid "% reviews"
+msgstr "% avis"
+
+#: functions.php:1968
+#@ oxy
+msgid "Write a review"
+msgstr ""
+"\n"
+"Donnez votre avis"
+
+#: functions.php:2094
+#@ oxy
+msgid "Sub-Total:"
+msgstr "Sous-total:"
+
+#: functions.php:2102
+#@ oxy
+msgid "Total:"
+msgstr "total:"
+
+#: functions.php:2112
+#: functions.php:2795
+#@ oxy
+msgid "View Cart"
+msgstr "Voir le panier"
+
+#: functions.php:2112
+#: functions.php:2795
+#@ oxy
+msgid "Checkout"
+msgstr "caisse"
+
+#: functions.php:2116
+#@ oxy
+msgid "Your shopping cart is empty!"
+msgstr "Your shopping cart is empty!"
+
+#: functions.php:2215
+#: woocommerce/single-product/related.php:40
+#@ oxy
+#@ woocommerce
+msgid "Related Products"
+msgstr "produits liés"
+
+#: functions.php:2660
+#@ oxy
+msgid "shopping cart"
+msgstr "panier"
+
+#: functions.php:2662
+#@ oxy
+msgid "Success: You have added"
+msgstr "Succès: Vous avez ajouté"
+
+#: functions.php:2662
+#@ oxy
+msgid "to your"
+msgstr "à votre"
+
+#: functions.php:2797
+#@ oxy
+msgid "items"
+msgstr "articles"
+
+#: functions.php:2797
+#@ oxy
+msgid "item"
+msgstr "articles"
+
+#: functions.php:3040
+#@ oxy
+msgid "Tags:"
+msgstr "Tags:"
+
+#: functions.php:3060
+#@ oxy
+msgid "Read More&nbsp;<i class=\"dashicons dashicons-arrow-right-alt\"></i>"
+msgstr "En savoir plus&nbsp;<i class=\"dashicons dashicons-arrow-right-alt\"></i>"
+
+#: functions.php:3127
+#@ oxy
+msgid "Save:"
+msgstr "enregistrer:"
+
+#: header.php:178
+#, php-format
+#@ default
+msgid "<a href=\"%s\">login</a>"
+msgstr ""
+
+#: header.php:183
+#, php-format
+#@ default
+msgid "<a href=\"%s\">%s</a> ( <a href=\"%s\">logout</a> )"
+msgstr ""
+
+#: header.php:222
+#@ oxy
+msgid "Shopping Cart"
+msgstr "panier"
+
+#: header.php:223
+#@ oxy
+msgid "View your shopping cart"
+msgstr "Voir votre panier"
+
+#: header.php:225
+#, php-format
+#@ oxy
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d article"
+msgstr[1] "%darticles"
+
+#: header.php:244
+#@ oxy
+msgid "MENU"
+msgstr "MENU"
+
+#: home.php:50
+#: index.php:51
+#@ oxy
+msgid "Blog"
+msgstr "Blog"
+
+#: page.php:70
+#: template-home.php:769
+#@ oxy
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "continuer la lecture <span class=\"meta-nav\">&rarr;</span>"
+
+#: page.php:71
+#: template-home.php:770
+#@ oxy
+msgid "Pages:"
+msgstr "pages:"
+
+#: single.php:149
+#, php-format
+#@ oxy
+msgid "About %s"
+msgstr "sur %s"
+
+#: single.php:160
+#, php-format
+#@ oxy
+msgctxt "Previous post link"
+msgid "<i class=\"dashicons dashicons-arrow-left-alt\"></i> %title"
+msgstr "<i class=\"dashicons dashicons-arrow-left-alt\"></i> %title"
+
+#: single.php:161
+#, php-format
+#@ oxy
+msgctxt "Next post link"
+msgid "%title <i class=\"dashicons dashicons-arrow-right-alt\"></i>"
+msgstr "%title <i class=\"dashicons dashicons-arrow-right-alt\"></i>"
+
+#: single.php:168
+#@ oxy
+msgid "Related Posts:"
+msgstr "Related Posts:"
+
+#: single.php:199
+#@ oxy
+msgid "Read More.."
+msgstr "En savoir plus .."
+
+#: template-home.php:759
+#, php-format
+#@ sellya
+msgid "Permalink to %s"
+msgstr ""
+
+#: oxy-admin/index.php:1686
+#@ sellya
+msgid "Last Backup : "
+msgstr ""
+
+#: swpf/class-tgm-plugin-activation.php:199
+#@ tgmpa
+msgid "Something went wrong."
+msgstr ""
+
+#: swpf/class-tgm-plugin-activation.php:209
+#@ oxy
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: swpf/class-tgm-plugin-activation.php:211
+#@ tgmpa
+msgid "Return to the dashboard"
+msgstr ""
+
+#. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
+#: swpf/class-tgm-plugin-activation.php:1638
+#: swpf/class-tgm-plugin-activation.php:213
+#@ tgmpa
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: swpf/class-tgm-plugin-activation.php:214
+#, php-format
+#@ tgmpa
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: swpf/class-tgm-plugin-activation.php:215
+#@ tgmpa
+msgid "Dismiss this notice"
+msgstr ""
+
+#: swpf/class-tgm-plugin-activation.php:544
+#: swpf/class-tgm-plugin-activation.php:2168
+#@ tgmpa
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: swpf/class-tgm-plugin-activation.php:1174
+#@ tgmpa
+msgid "Private Repository"
+msgstr ""
+
+#: swpf/class-tgm-plugin-activation.php:1177
+#@ tgmpa
+msgid "Pre-Packaged"
+msgstr ""
+
+#: swpf/class-tgm-plugin-activation.php:1182
+#@ tgmpa
+msgid "WordPress Repository"
+msgstr ""
+
+#: swpf/class-tgm-plugin-activation.php:1185
+#@ tgmpa
+msgid "Required"
+msgstr ""
+
+#: swpf/class-tgm-plugin-activation.php:1185
+#@ tgmpa
+msgid "Recommended"
+msgstr ""
+
+#: swpf/class-tgm-plugin-activation.php:1188
+#@ tgmpa
+msgid "Not Installed"
+msgstr ""
+
+#: swpf/class-tgm-plugin-activation.php:1190
+#@ tgmpa
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: swpf/class-tgm-plugin-activation.php:1290
+#: swpf/class-tgm-plugin-activation.php:1398
+#@ tgmpa
+msgid "Install"
+msgstr ""
+
+#: swpf/class-tgm-plugin-activation.php:1312
+#: swpf/class-tgm-plugin-activation.php:1399
+#@ tgmpa
+msgid "Activate"
+msgstr ""
+
+#: swpf/class-tgm-plugin-activation.php:1361
+#, php-format
+#@ tgmpa
+msgid "No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: swpf/class-tgm-plugin-activation.php:1377
+#@ tgmpa
+msgid "Plugin"
+msgstr ""
+
+#: swpf/class-tgm-plugin-activation.php:1378
+#@ tgmpa
+msgid "Source"
+msgstr ""
+
+#: swpf/class-tgm-plugin-activation.php:1379
+#@ tgmpa
+msgid "Type"
+msgstr ""
+
+#: swpf/class-tgm-plugin-activation.php:1380
+#@ tgmpa
+msgid "Status"
+msgstr ""
+
+#: swpf/class-tgm-plugin-activation.php:1508
+#@ tgmpa
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: swpf/class-tgm-plugin-activation.php:1616
+#@ tgmpa
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: swpf/class-tgm-plugin-activation.php:1934
+#@ tgmpa
+msgid "Install package not available."
+msgstr ""
+
+#: swpf/class-tgm-plugin-activation.php:1935
+#, php-format
+#@ tgmpa
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: swpf/class-tgm-plugin-activation.php:1936
+#@ tgmpa
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: swpf/class-tgm-plugin-activation.php:1937
+#@ tgmpa
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: swpf/class-tgm-plugin-activation.php:1938
+#@ tgmpa
+msgid "Plugin install failed."
+msgstr ""
+
+#: swpf/class-tgm-plugin-activation.php:1939
+#@ tgmpa
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: swpf/class-tgm-plugin-activation.php:1950
+#@ tgmpa
+msgid "Plugin activation failed."
+msgstr ""
+
+#: swpf/class-tgm-plugin-activation.php:2064
+#@ tgmpa
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: swpf/class-tgm-plugin-activation.php:2065
+#, php-format
+#@ tgmpa
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: swpf/class-tgm-plugin-activation.php:2065
+#: swpf/class-tgm-plugin-activation.php:2074
+#@ tgmpa
+msgid "Show Details"
+msgstr ""
+
+#: swpf/class-tgm-plugin-activation.php:2065
+#: swpf/class-tgm-plugin-activation.php:2074
+#@ tgmpa
+msgid "Hide Details"
+msgstr ""
+
+#: swpf/class-tgm-plugin-activation.php:2066
+#@ tgmpa
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: swpf/class-tgm-plugin-activation.php:2067
+#, php-format
+#@ tgmpa
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: swpf/class-tgm-plugin-activation.php:2071
+#@ tgmpa
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: swpf/class-tgm-plugin-activation.php:2072
+#, php-format
+#@ tgmpa
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: swpf/class-tgm-plugin-activation.php:2073
+#, php-format
+#@ tgmpa
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: swpf/class-tgm-plugin-activation.php:2074
+#, php-format
+#@ tgmpa
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: swpf/class-tgm-plugin-activation.php:2075
+#@ tgmpa
+msgid "All installations have been completed."
+msgstr ""
+
+#: swpf/class-tgm-plugin-activation.php:2076
+#, php-format
+#@ tgmpa
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: swpf/header-area.php:22
+#@ oxy
+msgid "Search"
+msgstr "recherche"
+
+#: swpf/nav_menu_walker.php:77
+#@ oxy
+msgid "Contacts"
+msgstr "contacts"
+
+#: swpf/nav_menu_walker.php:157
+#: swpf/widgets/swpf-address-info-widget.php:94
+#@ oxy
+msgid "Address"
+msgstr "adresse"
+
+#: swpf/nav_menu_walker.php:168
+#@ oxy
+msgid "Office Opening Hours"
+msgstr "Heures d'ouverture de"
+
+#: swpf/nav_menu_walker.php:175
+#@ oxy
+msgid "Contact Form"
+msgstr "Formulaire de contact"
+
+#: swpf/oxy_theme_customizer.php:17
+#@ themename
+msgid "General"
+msgstr ""
+
+#: swpf/oxy_theme_customizer.php:39
+#@ oxy
+msgid "Body background color:"
+msgstr "Corps couleur de fond:"
+
+#: swpf/oxy_theme_customizer.php:56
+#@ oxy
+msgid "Headings color:"
+msgstr ""
+
+#: swpf/oxy_theme_customizer.php:73
+#@ oxy
+msgid "Body text color:"
+msgstr ""
+
+#: swpf/oxy_theme_customizer.php:90
+#@ oxy
+msgid "Light text color:"
+msgstr ""
+
+#: swpf/oxy_theme_customizer.php:107
+#@ oxy
+msgid "Other links color:"
+msgstr ""
+
+#: swpf/oxy_theme_customizer.php:124
+#: swpf/oxy_theme_customizer.php:364
+#: swpf/oxy_theme_customizer.php:492
+#: swpf/oxy_theme_customizer.php:635
+#@ oxy
+msgid "Links color hover:"
+msgstr ""
+
+#: swpf/oxy_theme_customizer.php:155
+#: swpf/oxy_theme_customizer.php:904
+#: swpf/oxy_theme_customizer.php:983
+#: swpf/oxy_theme_customizer.php:1063
+#: swpf/oxy_theme_customizer.php:1143
+#: swpf/oxy_theme_customizer.php:1196
+#: swpf/oxy_theme_customizer.php:1242
+#: swpf/oxy_theme_customizer.php:1457
+#: swpf/oxy_theme_customizer.php:1621
+#: swpf/oxy_theme_customizer.php:1701
+#: swpf/oxy_theme_customizer.php:1862
+#: swpf/oxy_theme_customizer.php:1994
+#: swpf/oxy_theme_customizer.php:2125
+#: swpf/oxy_theme_customizer.php:2187
+#: swpf/oxy_theme_customizer.php:2346
+#: swpf/oxy_theme_customizer.php:2549
+#: swpf/oxy_theme_customizer.php:2689
+#: swpf/oxy_theme_customizer.php:2799
+#: swpf/oxy_theme_customizer.php:2894
+#@ oxy
+msgid "Background color:"
+msgstr ""
+
+#: swpf/oxy_theme_customizer.php:172
+#: swpf/oxy_theme_customizer.php:1474
+#@ oxy
+msgid "Border color:"
+msgstr ""
+
+#: swpf/oxy_theme_customizer.php:201
+#@ oxy
+msgid "Highlighted Items background color:"
+msgstr ""
+
+#: swpf/oxy_theme_customizer.php:218
+#@ oxy
+msgid "Headings border bottom color:"
+msgstr ""
+
+#: swpf/oxy_theme_customizer.php:235
+#: swpf/oxy_theme_customizer.php:652
+#: swpf/oxy_theme_customizer.php:1360
+#: swpf/oxy_theme_customizer.php:1638
+#: swpf/oxy_theme_customizer.php:1964
+#@ oxy
+msgid "Separator color:"
+msgstr ""
+
+#: swpf/oxy_theme_customizer.php:266
+#: swpf/oxy_theme_customizer.php:395
+#: swpf/oxy_theme_customizer.php:521
+#: swpf/oxy_theme_customizer.php:1896
+#@ oxy
+msgid "Heading background color:"
+msgstr ""
+
+#: swpf/oxy_theme_customizer.php:283
+#: swpf/oxy_theme_customizer.php:412
+#: swpf/oxy_theme_customizer.php:538
+#@ oxy
+msgid "Title color:"
+msgstr ""
+
+#: swpf/oxy_theme_customizer.php:300
+#: swpf/oxy_theme_customizer.php:429
+#: swpf/oxy_theme_customizer.php:555
+#: swpf/oxy_theme_customizer.php:1276
+#: swpf/oxy_theme_customizer.php:1672
+#@ oxy
+msgid "Border bottom color:"
+msgstr ""
+
+#: swpf/oxy_theme_customizer.php:330
+#: swpf/oxy_theme_customizer.php:458
+#@ oxy
+msgid "Box background color:"
+msgstr ""
+
+#: swpf/oxy_theme_customizer.php:347
+#: swpf/oxy_theme_customizer.php:475
+#: swpf/oxy_theme_customizer.php:618
+#@ oxy
+msgid "Links color:"
+msgstr ""
+
+#: swpf/oxy_theme_customizer.php:584
+#@ oxy
+msgid "Category box background color:"
+msgstr ""
+
+#: swpf/oxy_theme_customizer.php:601
+#@ oxy
+msgid "Category box background color hover:"
+msgstr ""
+
+#: swpf/oxy_theme_customizer.php:797
+#@ themename
+msgid "Prices"
+msgstr ""
+
+#: swpf/oxy_theme_customizer.php:818
+#@ oxy
+msgid "Price color:"
+msgstr ""
+
+#: swpf/oxy_theme_customizer.php:835
+#@ oxy
+msgid "Old price color:"
+msgstr ""
+
+#: swpf/oxy_theme_customizer.php:852
+#@ oxy
+msgid "New price color:"
+msgstr ""
+
+#: swpf/oxy_theme_customizer.php:869
+#@ oxy
+msgid "Tax price color:"
+msgstr ""
+
+#: swpf/oxy_theme_customizer.php:883
+#@ themename
+msgid "Buttons"
+msgstr ""
+
+#: swpf/oxy_theme_customizer.php:921
+#: swpf/oxy_theme_customizer.php:1000
+#: swpf/oxy_theme_customizer.php:1080
+#: swpf/oxy_theme_customizer.php:1160
+#: swpf/oxy_theme_customizer.php:2011
+#: swpf/oxy_theme_customizer.php:2064
+#@ oxy
+msgid "Background color hover:"
+msgstr ""
+
+#: swpf/oxy_theme_customizer.php:938
+#: swpf/oxy_theme_customizer.php:1017
+#: swpf/oxy_theme_customizer.php:1097
+#: swpf/oxy_theme_customizer.php:1293
+#: swpf/oxy_theme_customizer.php:1508
+#: swpf/oxy_theme_customizer.php:1537
+#: swpf/oxy_theme_customizer.php:1913
+#: swpf/oxy_theme_customizer.php:2159
+#: swpf/oxy_theme_customizer.php:2597
+#: swpf/oxy_theme_customizer.php:2815
+#: swpf/oxy_theme_customizer.php:2910
+#@ oxy
+msgid "Text color:"
+msgstr ""
+
+#: swpf/oxy_theme_customizer.php:955
+#: swpf/oxy_theme_customizer.php:1034
+#: swpf/oxy_theme_customizer.php:1114
+#@ oxy
+msgid "Text color hover:"
+msgstr ""
+
+#: swpf/oxy_theme_customizer.php:1175
+#@ themename
+msgid "Header"
+msgstr ""
+
+#: swpf/oxy_theme_customizer.php:1213
+#@ oxy
+msgid "Fixed Header (Mini Header) background color:"
+msgstr ""
+
+#: swpf/oxy_theme_customizer.php:1259
+#: swpf/oxy_theme_customizer.php:1655
+#: swpf/oxy_theme_customizer.php:2661
+#: swpf/oxy_theme_customizer.php:2770
+#: swpf/oxy_theme_customizer.php:2865
+#: swpf/oxy_theme_customizer.php:2960
+#@ oxy
+msgid "Border top color:"
+msgstr ""
+
+#: swpf/oxy_theme_customizer.php:1310
+#: swpf/oxy_theme_customizer.php:1554
+#: swpf/oxy_theme_customizer.php:1735
+#: swpf/oxy_theme_customizer.php:1930
+#: swpf/oxy_theme_customizer.php:2613
+#: swpf/oxy_theme_customizer.php:2737
+#: swpf/oxy_theme_customizer.php:2831
+#: swpf/oxy_theme_customizer.php:2926
+#@ oxy
+msgid "Link color:"
+msgstr ""
+
+#: swpf/oxy_theme_customizer.php:1327
+#: swpf/oxy_theme_customizer.php:1571
+#: swpf/oxy_theme_customizer.php:1752
+#: swpf/oxy_theme_customizer.php:1947
+#: swpf/oxy_theme_customizer.php:2629
+#: swpf/oxy_theme_customizer.php:2753
+#: swpf/oxy_theme_customizer.php:2848
+#: swpf/oxy_theme_customizer.php:2943
+#@ oxy
+msgid "Link color hover:"
+msgstr ""
+
+#: swpf/oxy_theme_customizer.php:1343
+#@ oxy
+msgid "Link hover background color:"
+msgstr ""
+
+#: swpf/oxy_theme_customizer.php:1377
+#@ oxy
+msgid "Dropdowns background color:"
+msgstr ""
+
+#: swpf/oxy_theme_customizer.php:1394
+#@ oxy
+msgid "Dropdowns background color hover:"
+msgstr ""
+
+#: swpf/oxy_theme_customizer.php:1411
+#@ oxy
+msgid "Dropdowns link color:"
+msgstr ""
+
+#: swpf/oxy_theme_customizer.php:1428
+#@ oxy
+msgid "Dropdowns link color hover:"
+msgstr ""
+
+#: swpf/oxy_theme_customizer.php:1491
+#@ oxy
+msgid "Border color hover:"
+msgstr ""
+
+#: swpf/oxy_theme_customizer.php:1588
+#@ oxy
+msgid "Separator:"
+msgstr ""
+
+#: swpf/oxy_theme_customizer.php:1602
+#@ themename
+msgid "Main Menu"
+msgstr ""
+
+#: swpf/oxy_theme_customizer.php:1718
+#@ oxy
+msgid "Background hover color:"
+msgstr ""
+
+#: swpf/oxy_theme_customizer.php:1879
+#@ oxy
+msgid "Item background color:"
+msgstr ""
+
+#: swpf/oxy_theme_customizer.php:2028
+#@ oxy
+msgid "\"MENU\" text color:"
+msgstr ""
+
+#: swpf/oxy_theme_customizer.php:2042
+#@ themename
+msgid "Midsection"
+msgstr ""
+
+#: swpf/oxy_theme_customizer.php:2080
+#@ oxy
+msgid "Rating color:"
+msgstr ""
+
+#: swpf/oxy_theme_customizer.php:2097
+#@ oxy
+msgid "Sale Badge color:"
+msgstr ""
+
+#: swpf/oxy_theme_customizer.php:2142
+#@ oxy
+msgid "Selected tab background color:"
+msgstr ""
+
+#: swpf/oxy_theme_customizer.php:2204
+#@ oxy
+msgid "Product name color:"
+msgstr ""
+
+#: swpf/oxy_theme_customizer.php:2221
+#@ oxy
+msgid "Product description color:"
+msgstr ""
+
+#: swpf/oxy_theme_customizer.php:2238
+#@ oxy
+msgid "Product price color:"
+msgstr ""
+
+#: swpf/oxy_theme_customizer.php:2255
+#@ oxy
+msgid "Product links color hover:"
+msgstr ""
+
+#: swpf/oxy_theme_customizer.php:2272
+#@ oxy
+msgid "Bottom bar background color:"
+msgstr ""
+
+#: swpf/oxy_theme_customizer.php:2289
+#@ oxy
+msgid "Bottom bar background color hover:"
+msgstr ""
+
+#: swpf/oxy_theme_customizer.php:2306
+#@ oxy
+msgid "Bottom bar background color active:"
+msgstr ""
+
+#: swpf/oxy_theme_customizer.php:2324
+#@ themename
+msgid "Footer"
+msgstr ""
+
+#: swpf/oxy_theme_customizer.php:2362
+#: swpf/oxy_theme_customizer.php:2565
+#: swpf/oxy_theme_customizer.php:2705
+#@ oxy
+msgid "Titles color:"
+msgstr ""
+
+#: swpf/oxy_theme_customizer.php:2378
+#@ oxy
+msgid "Titles color hover:"
+msgstr ""
+
+#: swpf/oxy_theme_customizer.php:2394
+#@ oxy
+msgid "Subtitles color:"
+msgstr ""
+
+#: swpf/oxy_theme_customizer.php:2414
+#@ oxy
+msgid "Feature box 1 icon background color:"
+msgstr ""
+
+#: swpf/oxy_theme_customizer.php:2428
+#@ oxy
+msgid "Feature box 1 icon hover background color:"
+msgstr ""
+
+#: swpf/oxy_theme_customizer.php:2444
+#@ oxy
+msgid "Feature box 2 icon background color:"
+msgstr ""
+
+#: swpf/oxy_theme_customizer.php:2458
+#@ oxy
+msgid "Feature box 2 icon hover background color:"
+msgstr ""
+
+#: swpf/oxy_theme_customizer.php:2475
+#@ oxy
+msgid "Feature box 3 icon background color:"
+msgstr ""
+
+#: swpf/oxy_theme_customizer.php:2490
+#@ oxy
+msgid "Feature box 3 icon hover background color:"
+msgstr ""
+
+#: swpf/oxy_theme_customizer.php:2506
+#@ oxy
+msgid "Feature box 4 icon background color:"
+msgstr ""
+
+#: swpf/oxy_theme_customizer.php:2521
+#@ oxy
+msgid "Feature box 4 icon hover background color:"
+msgstr ""
+
+#: swpf/oxy_theme_customizer.php:2581
+#: swpf/oxy_theme_customizer.php:2721
+#@ oxy
+msgid "Titles border bottom color:"
+msgstr ""
+
+#: swpf/oxy_theme_customizer.php:2645
+#@ oxy
+msgid "Icon color:"
+msgstr ""
+
+#: swpf/oxy_theme_customizer.php:2975
+#@ oxy
+msgid "Widgets"
+msgstr ""
+
+#: swpf/oxy_theme_customizer.php:2989
+#@ oxy
+msgid "Video box bg color:"
+msgstr ""
+
+#: swpf/oxy_theme_customizer.php:3006
+#@ oxy
+msgid "Custom box bg color:"
+msgstr ""
+
+#: swpf/post-format-settings.php:8
+#@ oxy
+msgid "Post Format Features"
+msgstr "Message Format Features"
+
+#: swpf/ctp/sds_wcm_brands.php:149
+#: swpf/post-format-settings.php:89
+#: swpf/widgets/swpf-product-shipping-info-widget.php:64
+#@ sellya
+#@ oxy
+msgid "Choose an image"
+msgstr "Choisissez une image"
+
+#: swpf/post-format-settings.php:91
+#@ oxy
+msgid "Insert image"
+msgstr "insérer une image"
+
+#: swpf/ctp/sds_wcm_brands.php:30
+#@ sellya
+msgctxt "taxonomy general name"
+msgid "Brands"
+msgstr ""
+
+#: swpf/ctp/sds_wcm_brands.php:31
+#@ sellya
+msgctxt "taxonomy singular name"
+msgid "Brand"
+msgstr ""
+
+#: swpf/ctp/sds_wcm_brands.php:32
+#@ sellya
+msgid "Search Brands"
+msgstr ""
+
+#: swpf/ctp/sds_wcm_brands.php:33
+#@ sellya
+msgid "All Brands"
+msgstr ""
+
+#: swpf/ctp/sds_wcm_brands.php:34
+#@ sellya
+msgid "Parent Brand"
+msgstr ""
+
+#: swpf/ctp/sds_wcm_brands.php:35
+#@ sellya
+msgid "Parent Brand:"
+msgstr ""
+
+#: swpf/ctp/sds_wcm_brands.php:36
+#@ sellya
+msgid "Edit Brand"
+msgstr ""
+
+#: swpf/ctp/sds_wcm_brands.php:37
+#@ sellya
+msgid "Update Brand"
+msgstr ""
+
+#: swpf/ctp/sds_wcm_brands.php:38
+#@ sellya
+msgid "Add New Brand"
+msgstr ""
+
+#: swpf/ctp/sds_wcm_brands.php:39
+#@ sellya
+msgid "New Brand Name"
+msgstr ""
+
+#: swpf/ctp/sds_wcm_brands.php:40
+#@ sellya
+msgid "Brands"
+msgstr ""
+
+#: swpf/ctp/sds_wcm_brands.php:86
+#: swpf/ctp/sds_wcm_brands.php:215
+#: swpf/ctp/sds_wcm_brands.php:257
+#@ sellya
+msgid "Thumbnail"
+msgstr ""
+
+#: swpf/ctp/sds_wcm_brands.php:87
+#: woocommerce/single-product-reviews.php:63
+#@ sellya
+#@ woocommerce
+msgid "Name"
+msgstr ""
+
+#: swpf/ctp/sds_wcm_brands.php:88
+#@ sellya
+msgid "Description"
+msgstr ""
+
+#: swpf/ctp/sds_wcm_brands.php:89
+#@ sellya
+msgid "Slug"
+msgstr ""
+
+#: swpf/ctp/sds_wcm_brands.php:90
+#@ sellya
+msgid "Count"
+msgstr ""
+
+#: swpf/ctp/sds_wcm_brands.php:151
+#: swpf/widgets/swpf-product-shipping-info-widget.php:66
+#@ sellya
+#@ oxy
+msgid "Use image"
+msgstr ""
+"\n"
+"Utilisez l'image"
+
+#: swpf/ctp/sds_wcm_brands.php:223
+#: swpf/ctp/sds_wcm_brands.php:263
+#@ woocommerce
+msgid "Upload/Add image"
+msgstr ""
+
+#: swpf/ctp/sds_wcm_brands.php:224
+#: swpf/ctp/sds_wcm_brands.php:264
+#@ woocommerce
+msgid "Remove image"
+msgstr ""
+
+#: swpf/widgets/custom-photo-slider-widget.php:15
+#@ sellya
+msgid "Sellya Sidebar Banner Slider"
+msgstr ""
+
+#: swpf/widgets/custom-photo-slider-widget.php:17
+#@ sellya
+msgid "Sellya Sidebar Banner Widget"
+msgstr ""
+
+#: swpf/widgets/oxy-product-brand-logo-widget.php:11
+#: swpf/widgets/oxy-product-brand-logo-widget.php:13
+#@ oxy
+msgid "Oxy Product Brand Widget"
+msgstr "Oxy produit Marque Widget"
+
+#: swpf/widgets/oxy-related-products-widget.php:11
+#: swpf/widgets/oxy-related-products-widget.php:13
+#@ oxy
+msgid "Oxy Related Products Widget"
+msgstr "Oxy produits connexes Widget"
+
+#: swpf/widgets/oxy-social-media-widget.php:53
+#: swpf/widgets/oxy-social-media-widget.php:55
+#@ oxy
+msgid "Oxy Social Media Widget"
+msgstr "Oxy Social Media Widget"
+
+#: swpf/widgets/swpf-ad-120-by-240-widget.php:10
+#@ sellya
+msgid "This widget will show your Ad 120 by 240"
+msgstr ""
+
+#: swpf/widgets/swpf-ad-120-by-240-widget.php:24
+#: swpf/widgets/swpf-ad-125-by-125-widget.php:26
+#: swpf/widgets/swpf-blog-widget.php:21
+#: swpf/widgets/swpf-flickr-widget.php:30
+#: swpf/widgets/swpf-popular-post-widget.php:24
+#: swpf/widgets/swpf-tweets-widget.php:79
+#@ sellya
+msgid "Title:"
+msgstr ""
+
+#: swpf/widgets/swpf-ad-120-by-240-widget.php:28
+#: swpf/widgets/swpf-ad-125-by-125-widget.php:30
+#@ sellya
+msgid "Image URL:"
+msgstr ""
+
+#: swpf/widgets/swpf-ad-120-by-240-widget.php:32
+#: swpf/widgets/swpf-ad-125-by-125-widget.php:34
+#@ sellya
+msgid "Link URL:"
+msgstr ""
+
+#: swpf/widgets/swpf-ad-125-by-125-widget.php:10
+#@ sellya
+msgid "This widget will show your Ad 125 by 125"
+msgstr ""
+
+#: swpf/widgets/swpf-address-info-widget.php:9
+#@ oxy
+msgid "Oxy Address Info"
+msgstr "Oxy Adresse Infos"
+
+#: swpf/widgets/swpf-address-info-widget.php:11
+#@ oxy
+msgid "This widget will show Address."
+msgstr "Ce widget affichera adresses."
+
+#: swpf/widgets/swpf-address-info-widget.php:19
+#@ oxy
+msgid "Contact Us"
+msgstr "Contactez-nous"
+
+#: swpf/widgets/swpf-address-info-widget.php:46
+#@ oxy
+msgid "Title"
+msgstr "titre"
+
+#: swpf/widgets/swpf-address-info-widget.php:54
+#@ oxy
+msgid "Mobile Phone"
+msgstr "téléphone mobile"
+
+#: swpf/widgets/swpf-address-info-widget.php:62
+#@ oxy
+msgid "Land Phone"
+msgstr "terrain de téléphone"
+
+#: swpf/widgets/swpf-address-info-widget.php:70
+#@ oxy
+msgid "Fax"
+msgstr "fax"
+
+#: swpf/widgets/swpf-address-info-widget.php:78
+#: woocommerce/single-product-reviews.php:65
+#@ oxy
+#@ woocommerce
+msgid "Email"
+msgstr ""
+"\n"
+"email"
+
+#: swpf/widgets/swpf-address-info-widget.php:86
+#@ oxy
+msgid "Skype"
+msgstr "Skype"
+
+#: swpf/widgets/swpf-address-info-widget.php:102
+#@ oxy
+msgid "Hours"
+msgstr "heures"
+
+#: swpf/widgets/swpf-blog-widget.php:10
+#@ sellya
+msgid "This widget will show Blog"
+msgstr ""
+
+#: swpf/widgets/swpf-blog-widget.php:25
+#@ sellya
+msgid "Show Blog:"
+msgstr ""
+
+#: swpf/widgets/swpf-blog-widget.php:60
+#@ sellya
+msgid "No Comments"
+msgstr ""
+
+#: swpf/widgets/swpf-blog-widget.php:60
+#@ sellya
+msgid "1 Comment"
+msgstr ""
+
+#: swpf/widgets/swpf-blog-widget.php:60
+#@ sellya
+msgid "% Comments"
+msgstr ""
+
+#: swpf/widgets/swpf-blog-widget.php:60
+#@ sellya
+msgid "Comments off"
+msgstr ""
+
+#: swpf/widgets/swpf-brands-widget.php:14
+#@ oxy
+msgid "Oxy Woocommerce Brands."
+msgstr "Oxy WooCommerce Marques."
+
+#: swpf/widgets/swpf-brands-widget.php:29
+#: swpf/widgets/swpf-tab-widget.php:31
+#@ oxy
+#@ swpf
+msgid "Widget Title:"
+msgstr ""
+
+#: swpf/widgets/swpf-brands-widget.php:33
+#@ oxy
+msgid "Show Brands at most:"
+msgstr ""
+
+#: swpf/widgets/swpf-brands-widget.php:37
+#@ oxy
+msgid "Show Logo:"
+msgstr ""
+
+#: swpf/widgets/swpf-flickr-widget.php:10
+#@ sellya
+msgid "This widget will show your flickr image."
+msgstr ""
+
+#: swpf/widgets/swpf-flickr-widget.php:35
+#@ sellya
+msgid "Flickr ID:"
+msgstr ""
+
+#: swpf/widgets/swpf-flickr-widget.php:38
+#@ sellya
+msgid "Number of Photos:"
+msgstr ""
+
+#: swpf/widgets/swpf-flickr-widget.php:42
+#@ sellya
+msgid "Display :"
+msgstr ""
+
+#: swpf/widgets/swpf-flickr-widget.php:63
+#@ sellya
+msgid "Size :"
+msgstr ""
+
+#: swpf/widgets/swpf-popular-post-widget.php:10
+#@ sellya
+msgid "Show Popular Post"
+msgstr ""
+
+#: swpf/widgets/swpf-popular-post-widget.php:28
+#@ sellya
+msgid "Show"
+msgstr ""
+
+#: swpf/widgets/swpf-product-shipping-info-widget.php:9
+#@ oxy
+msgid "Oxy Shipping Info"
+msgstr ""
+"\n"
+"Oxy Expédition"
+
+#: swpf/widgets/swpf-product-shipping-info-widget.php:11
+#@ oxy
+msgid "This widget will show popup for shipping info."
+msgstr "Ce widget affichera le popup pour information sur l'expédition."
+
+#: swpf/widgets/swpf-product-shipping-info-widget.php:19
+#@ oxy
+msgid "Free Ground Shipping"
+msgstr "Rez-de-Livraison gratuite"
+
+#: swpf/widgets/swpf-product-shipping-info-widget.php:23
+#@ oxy
+msgid "30-Day Money-Back"
+msgstr ""
+"\n"
+"30 jours satisfait ou remboursé"
+
+#: swpf/widgets/swpf-product-shipping-info-widget.php:27
+#@ oxy
+msgid "Free Bonus Gifts"
+msgstr "Cadeaux Bonus gratuits"
+
+#: swpf/widgets/swpf-product-shipping-info-widget.php:105
+#@ oxy
+msgid "Title 1"
+msgstr "Titre 1"
+
+#: swpf/widgets/swpf-product-shipping-info-widget.php:114
+#@ oxy
+msgid "Subtitle 1"
+msgstr "Sous-titre 1"
+
+#: swpf/widgets/swpf-product-shipping-info-widget.php:123
+#@ oxy
+msgid "Image 1"
+msgstr "image 1"
+
+#: swpf/widgets/swpf-product-shipping-info-widget.php:133
+#@ oxy
+msgid "Content 1"
+msgstr "contenu 1"
+
+#: swpf/widgets/swpf-product-shipping-info-widget.php:143
+#@ oxy
+msgid "Title 2"
+msgstr "Titre 2"
+
+#: swpf/widgets/swpf-product-shipping-info-widget.php:152
+#@ oxy
+msgid "Subtitle 2"
+msgstr ""
+"\n"
+"Sous-titre 2"
+
+#: swpf/widgets/swpf-product-shipping-info-widget.php:161
+#@ oxy
+msgid "Image 2"
+msgstr "image 2"
+
+#: swpf/widgets/swpf-product-shipping-info-widget.php:171
+#@ oxy
+msgid "Content 2"
+msgstr ""
+"\n"
+"contenu 2"
+
+#: swpf/widgets/swpf-product-shipping-info-widget.php:181
+#@ oxy
+msgid "Title 3"
+msgstr "Titre 3"
+
+#: swpf/widgets/swpf-product-shipping-info-widget.php:190
+#@ oxy
+msgid "Subtitle 3"
+msgstr "Sous-titre 3"
+
+#: swpf/widgets/swpf-product-shipping-info-widget.php:199
+#@ oxy
+msgid "Image 3"
+msgstr "image 3"
+
+#: swpf/widgets/swpf-product-shipping-info-widget.php:209
+#@ oxy
+msgid "Content 3"
+msgstr ""
+"\n"
+"contenu 3"
+
+#: swpf/widgets/swpf-product-shipping-info-widget.php:219
+#@ oxy
+msgid "Title 4"
+msgstr ""
+
+#: swpf/widgets/swpf-product-shipping-info-widget.php:228
+#@ oxy
+msgid "Subtitle 4"
+msgstr ""
+
+#: swpf/widgets/swpf-product-shipping-info-widget.php:237
+#@ oxy
+msgid "Image 4"
+msgstr ""
+
+#: swpf/widgets/swpf-product-shipping-info-widget.php:247
+#@ oxy
+msgid "Content 4"
+msgstr ""
+
+#: swpf/widgets/swpf-product-shipping-info-widget.php:257
+#@ oxy
+msgid "Title 5"
+msgstr ""
+
+#: swpf/widgets/swpf-product-shipping-info-widget.php:266
+#@ oxy
+msgid "Subtitle 5"
+msgstr ""
+
+#: swpf/widgets/swpf-product-shipping-info-widget.php:275
+#@ oxy
+msgid "Image 5"
+msgstr ""
+
+#: swpf/widgets/swpf-product-shipping-info-widget.php:285
+#@ oxy
+msgid "Content 5"
+msgstr ""
+
+#: swpf/widgets/swpf-tab-widget.php:10
+#@ sellya
+msgid "Show Tab."
+msgstr ""
+
+#: swpf/widgets/swpf-tab-widget.php:37
+#@ swpf
+msgid "Tab One Title:"
+msgstr ""
+
+#: swpf/widgets/swpf-tab-widget.php:41
+#@ swpf
+msgid "Tab Two Title"
+msgstr ""
+
+#: swpf/widgets/swpf-tab-widget.php:45
+#@ swpf
+msgid "Tab Three Title:"
+msgstr ""
+
+#: swpf/widgets/swpf-tab-widget.php:49
+#@ swpf
+msgid "Tab Four Title:"
+msgstr ""
+
+#: swpf/widgets/swpf-tweets-widget.php:41
+#@ sellya
+msgid "This widget will show tweets."
+msgstr ""
+
+#: swpf/widgets/swpf-tweets-widget.php:91
+#@ sellya
+msgid "Twitter Username:"
+msgstr ""
+
+#: swpf/widgets/swpf-tweets-widget.php:99
+#@ sellya
+msgid "Widget Id:"
+msgstr ""
+
+#: swpf/widgets/swpf-tweets-widget.php:106
+#@ sellya
+msgid "Theme:"
+msgstr ""
+
+#: swpf/widgets/swpf-tweets-widget.php:119
+#@ sellya
+msgid "Show:"
+msgstr ""
+
+#: woocommerce/archive-product.php:148
+#: woocommerce/archive-product.php:216
+#: woocommerce/archive-product.php:361
+#@ oxy
+msgid "Display:"
+msgstr "affichage:"
+
+#: woocommerce/archive-product.php:258
+#, php-format
+#@ woocommerce
+msgid "Search Results: &ldquo;%s&rdquo;"
+msgstr ""
+
+#: woocommerce/archive-product.php:260
+#, php-format
+#@ woocommerce
+msgid "&nbsp;&ndash; Page %s"
+msgstr ""
+
+#: woocommerce/archive-product.php:409
+#: woocommerce/loop-shop.php:38
+#@ woocommerce
+msgid "No products found which match your selection."
+msgstr ""
+
+#: woocommerce/content-product.php:92
+#: woocommerce/content-product.php:93
+#@ oxy
+msgid "Add to Wish List"
+msgstr "Ajouter à la liste de souhaits"
+
+#: woocommerce/content-product.php:119
+#@ oxy
+msgid "Brand:"
+msgstr "marque:"
+
+#: woocommerce/single-product-reviews.php:22
+#, php-format
+#@ woocommerce
+msgid "%s review for %s"
+msgid_plural "%s reviews for %s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product-reviews.php:24
+#@ woocommerce
+msgid "Reviews"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:45
+#@ woocommerce
+msgid "There are no reviews yet."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:58
+#@ woocommerce
+msgid "Add a review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:58
+#@ woocommerce
+msgid "Be the first to review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:68
+#@ woocommerce
+msgid "Submit"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:74
+#@ woocommerce
+msgid "Your Rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:75
+#@ woocommerce
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:76
+#@ woocommerce
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:77
+#@ woocommerce
+msgid "Good"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:78
+#@ woocommerce
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:79
+#@ woocommerce
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:80
+#@ woocommerce
+msgid "Very Poor"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:84
+#@ woocommerce
+msgid "Your Review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:93
+#@ woocommerce
+msgid "Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: woocommerce/loop/--add-to-cart.php:17
+#: woocommerce/loop/--add-to-cart.php:34
+#@ woocommerce
+msgid "Read More"
+msgstr ""
+
+#: woocommerce/loop/--add-to-cart.php:26
+#@ woocommerce
+msgid "Select options"
+msgstr ""
+
+#: woocommerce/loop/--add-to-cart.php:30
+#@ woocommerce
+msgid "View options"
+msgstr ""
+
+#: woocommerce/loop/--add-to-cart.php:38
+#: woocommerce/single-product/add-to-cart/simple.php:42
+#@ woocommerce
+msgid "Add to cart"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:22
+#: woocommerce/loop/sorting.php:15
+#@ woocommerce
+msgid "Default sorting"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:23
+#@ woocommerce
+msgid "Sort by popularity"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:24
+#@ woocommerce
+msgid "Sort by average rating"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:25
+#@ woocommerce
+msgid "Sort by newness"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:26
+#@ woocommerce
+msgid "Sort by price: low to high"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:27
+#@ woocommerce
+msgid "Sort by price: high to low"
+msgstr ""
+
+#: woocommerce/loop/pagination.php:25
+#@ oxy
+msgid "&laquo; Previous"
+msgstr "&laquo; précédent"
+
+#: woocommerce/loop/pagination.php:26
+#@ oxy
+msgid "Next &raquo;"
+msgstr "suivant &raquo;"
+
+#: woocommerce/loop/sale-flash.php:14
+#: woocommerce/single-product/sale-flash.php:14
+#@ woocommerce
+msgid "Sale!"
+msgstr ""
+
+#: woocommerce/loop/sorting.php:16
+#@ woocommerce
+msgid "Sort alphabetically"
+msgstr ""
+
+#: woocommerce/loop/sorting.php:17
+#@ woocommerce
+msgid "Sort by most recent"
+msgstr ""
+
+#: woocommerce/loop/sorting.php:18
+#@ woocommerce
+msgid "Sort by price"
+msgstr ""
+
+#: woocommerce/shop/breadcrumb.php:13
+#@ woocommerce
+msgctxt "breadcrumb"
+msgid "Home"
+msgstr ""
+
+#: woocommerce/shop/breadcrumb.php:65
+#@ woocommerce
+msgid "Products tagged &ldquo;"
+msgstr ""
+
+#: woocommerce/shop/breadcrumb.php:88
+#: woocommerce/shop/breadcrumb.php:190
+#@ woocommerce
+msgid "Search results for &ldquo;"
+msgstr ""
+
+#: woocommerce/shop/breadcrumb.php:148
+#@ woocommerce
+msgid "Error 404"
+msgstr ""
+
+#: woocommerce/shop/breadcrumb.php:194
+#@ woocommerce
+msgid "Posts tagged &ldquo;"
+msgstr ""
+
+#: woocommerce/shop/breadcrumb.php:199
+#@ woocommerce
+msgid "Author:"
+msgstr ""
+
+#: woocommerce/shop/breadcrumb.php:204
+#@ woocommerce
+msgid "Page"
+msgstr ""
+
+#: woocommerce/shop/form-login.php:18
+#@ woocommerce
+msgid "Username or email"
+msgstr ""
+
+#: woocommerce/shop/form-login.php:22
+#@ woocommerce
+msgid "Password"
+msgstr ""
+
+#: woocommerce/shop/form-login.php:29
+#@ woocommerce
+msgid "Login"
+msgstr ""
+
+#: woocommerce/shop/form-login.php:31
+#@ woocommerce
+msgid "Lost Password?"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:23
+#@ woocommerce
+msgid "SKU:"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:23
+#@ woocommerce
+msgid "N/A"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:27
+#@ woocommerce
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/meta.php:29
+#@ woocommerce
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/product-image.php:86
+#@ oxy
+msgid "Zoom"
+msgstr "zoom"
+
+#: woocommerce/single-product/review.php:26
+#, php-format
+#@ woocommerce
+msgid "Rated %d out of 5"
+msgstr ""
+
+#: woocommerce/single-product/review.php:27
+#@ woocommerce
+msgid "out of 5"
+msgstr ""
+
+#: woocommerce/single-product/review.php:34
+#@ woocommerce
+msgid "Your comment is awaiting approval"
+msgstr ""
+
+#: woocommerce/single-product/review.php:43
+#@ woocommerce
+msgid "verified owner"
+msgstr ""
+
+#: woocommerce/single-product/up-sells.php:29
+#@ woocommerce
+msgid "You may also like&hellip;"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:27
+#@ woocommerce
+msgid "Choose an option"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:75
+#@ woocommerce
+msgid "Clear selection"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:105
+#@ woocommerce
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: woocommerce/single-product/tabs/additional-information.php:14
+#@ woocommerce
+msgid "Additional Information"
+msgstr ""
+
+#: woocommerce/single-product/tabs/description.php:17
+#@ woocommerce
+msgid "Product Description"
+msgstr ""
+
